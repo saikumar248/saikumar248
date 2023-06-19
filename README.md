@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 
 <div class="hero-top-section"">
  <div class="hero-top-txt">
-    <h3> 🌱 I’m currently learning **Javascript, React** </h3>
-    <h3> 💬 Ask me about **HTML , CSS,Django**
+    <h3> 🌱 I’m currently learning Javascript, React </h3>
+    <h3> 💬 Ask me about HTML , CSS, Django
     </h3>
     <h3> 📫 How to reach me **sai733kumar@gmail.com**</h3>
+                          <h3><a href=#>gh</a><h3>
  </div>
  <div class="hero-img-section">
     <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  align="right" alt="Coding" width="300> -->
