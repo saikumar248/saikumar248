@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 </div>
 
 <div class="footer-section">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumar733&show_icons=true&locale=en&layout=compact" alt="saikumar733" /></p>
-    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saikumar733&show_icons=true&locale=en" alt="saikumar733" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumar248&show_icons=true&locale=en&layout=compact" alt="saikumar248" /></p>
+    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saikumar248&show_icons=true&locale=en" alt="saikumar248" /></p>
 </div>
 
