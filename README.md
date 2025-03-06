@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     </h3>
     <h3> 📫 How to reach me sai733kumar@gmail.com</h3>
                           <h3>Click on Portfolio<a href="https://saikumar248.github.io/Portfolio/">Portfolio</a></h3>
-                          <h3>Click on Nxtlearn<a href="https://saikumar248.github.io/nxtlearn/">NxtLearn</a></h3>
+                          <h3>Click on Nxtlearn<a href="https://saikumar248.github.io/NxtLearn/">NxtLearn</a></h3>
                              
  </div>
  <div class="hero-img-section">
