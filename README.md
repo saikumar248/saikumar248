@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <div class="header-section" style="height:10%;width: 100%;text-align: center;" align="center">
-    <h1 >Hi 👋, I'm Madderla SaiKumar</h1>
+    <h1 >Hi 👋, I'm SaiKumar Madderla</h1>
     <h3 >A passionate Fullstack developer from India</h3>
 </div>
 
 <div class="hero-top-section"">
  <div class="hero-top-txt">
     <h3> 🌱 I’m currently learning Javascript, React </h3>
-    <h3> 💬 Ask me about HTML , CSS, Django
+    <h3> 💬 Ask me about HTML , CSS, SpringBoot
     </h3>
-    <h3> 📫 How to reach me sai733kumar@gmail.com</h3>
-                          <h3>Click on Portfolio<a href="https://saikumar248.github.io/Portfolio/">Portfolio</a></h3>
-                          <h3>Click on Nxtlearn<a href="https://saikumar248.github.io/NxtLearn/">NxtLearn</a></h3>
+    <h3> 📫 How to reach me saikumarmadderla@gmail.com</h3>
+                          <h3>Click on <a href="https://saikumar248.github.io/Portfolio/">Portfolio</a></h3>
+                          <h3>Click on <a href="https://saikumar248.github.io/NxtLearn/">NxtLearn</a></h3>
                              
  </div>
  <div class="hero-img-section">
