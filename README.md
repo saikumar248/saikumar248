@@ -46,7 +46,7 @@ JavaScript
 Python
 <div>
 
-        <h3>Frameworks :</h3>
+        ### Frameworks :
 
 SpringBoot React Django Flask
 </div>
