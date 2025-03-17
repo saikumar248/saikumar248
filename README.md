@@ -36,7 +36,7 @@ Here are some ideas to get you started:
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sona code" height="30" width="40" />
          </a>
         </p>
-    </div>
+
         <h3 align="left">Languages :</h3>
         <p aligh="left">
 Java
@@ -44,12 +44,12 @@ HTML
 CSS
 JavaScript
 Python
-<div>
+    </div>
+
 
         ### Frameworks :
 
 SpringBoot React Django Flask
-</div>
 
 
    
