@@ -6,7 +6,7 @@
 <div class="hero-top-section">
     <div class="hero-top-txt">
         <h3>🌱 I’m currently learning FullStack Java</h3>
-        <h3>💬 Ask me about Fullstack Java</h3>
+        <h3>💬 Ask me about FullStack Java</h3>
         <h3>📫 How to reach me: <a href="mailto:saikumarmadderla@gmail.com">saikumarmadderla@gmail.com</a></h3>
         <h3>Click on <a href="https://saikumar248.github.io/Portfolio/" target="_blank">Portfolio</a></h3>
         <h3>Click on <a href="https://saikumar248.github.io/NxtLearn/">NxtLearn</a></h3>
