@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     <div class="language-section">
         <h3 align="left">Languages :</h3>
         <p aligh="left">
-<h1>Java</h1>h1>
+Java
          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
          </a>
