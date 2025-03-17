@@ -1,5 +1,3 @@
-### Hi This is Madderla SaiKumar
-
 <div class="header-section" style="height:10%;width: 100%;text-align: center;" align="center">
     <h1>Hi 👋, I'm SaiKumar Madderla</h1>
     <h3>A passionate Fullstack developer from India</h3>
