@@ -29,21 +29,13 @@ Here are some ideas to get you started:
                           <h3>Click on <a href="https://saikumar248.github.io/Portfolio/">Portfolio</a></h3>
                           <h3>Click on <a href="https://saikumar248.github.io/NxtLearn/">NxtLearn</a></h3>
                              
- </div>
- <div class="hero-img-section">
-    <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  align="right" alt="Coding" width="300> -->
-   </div>
-</div>
-<div class="hero-body-section">
-    <div class="social-media-section">
+ 
         <h3>Connect with me:</h3>
         <p >
          <a href="https://www.instagram.com/sai_kumar_248" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sona code" height="30" width="40" />
          </a>
         </p>
-    </div>
-    <div class="language-section">
         <h3 align="left">Languages :</h3>
         <p aligh="left">
 Java
@@ -51,20 +43,17 @@ HTML
 CSS
 JavaScript
 Python
-        </p>
-    </div>
-    <div class="framework-section">
+
+
         <h3>Frameworks :</h3>
-        <p >
+
 SpringBoot React Django Flask
-        </p>
-    </div>
-    <div class="tools-section">
+
+
+   
         <h3 align="left">Tools :</h3>
         IntelliJ VSCode
         </p>
-    </div>
-</div>
 
 <div class="footer-section">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumar248&show_icons=true&locale=en&layout=compact" alt="saikumar248" /></p>
