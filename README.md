@@ -29,13 +29,14 @@ Here are some ideas to get you started:
                           <h3>Click on <a href="https://saikumar248.github.io/Portfolio/">Portfolio</a></h3>
                           <h3>Click on <a href="https://saikumar248.github.io/NxtLearn/">NxtLearn</a></h3>
                              
- 
+ <div>
         <h3>Connect with me:</h3>
         <p >
          <a href="https://www.instagram.com/sai_kumar_248" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sona code" height="30" width="40" />
          </a>
         </p>
+    </div>
         <h3 align="left">Languages :</h3>
         <p aligh="left">
 Java
