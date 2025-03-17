@@ -44,11 +44,12 @@ HTML
 CSS
 JavaScript
 Python
-
+<div>
 
         <h3>Frameworks :</h3>
 
 SpringBoot React Django Flask
+</div>
 
 
    
